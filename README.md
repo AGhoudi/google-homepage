@@ -1,3 +1,7 @@
-I am learning to code in ruby
+--- GOOGLE HOMEPAGE
 
-From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+I Have tried to reproduce Google Homepage in HTML and CSS.
+
+Here is the link to visit this project:
+https://link1986.github.io/google-homepage/
+
