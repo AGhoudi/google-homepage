@@ -1,4 +1,4 @@
---- GOOGLE HOMEPAGE
+--- GOOGLE
 
 I Have tried to reproduce Google Homepage in HTML and CSS.
 
