@@ -1,6 +1,6 @@
 --- GOOGLE
 
-I Have tried to reproduce Google Homepage in HTML and CSS.
+I Have tried to reproduce
 
 
 
