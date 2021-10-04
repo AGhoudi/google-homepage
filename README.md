@@ -3,7 +3,7 @@
 I Have tried to reproduce Google Homepage in HTML and CSS.
 
 Here is the link to visit this project:
-https://link1986.github.io/google-homepage/
+
 
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/131180724-f4b371b2-087a-4067-87bf-7550af64d3f5.png" alt="memory-game"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
