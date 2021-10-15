@@ -20,3 +20,4 @@ J'ai recréé la page google en HTML, CSS.</br>
 <p align=center>Voici un lien pour tester la page:
 
   <a title="https://aghoudi.github.io/google-homepage/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://aghoudi.github.io/google-homepage/">https://aghoudi.github.io/google-homepage/</a></p>
+![goo](https://user-images.githubusercontent.com/27373255/137558038-6cc7e1e0-51ab-4f2b-88ff-b46c9b5689a2.png)
