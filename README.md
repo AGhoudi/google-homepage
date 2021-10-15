@@ -1,4 +1,4 @@
-<div align=center><img src="https://user-images.githubusercontent.com/27373255/131180724-f4b371b2-087a-4067-87bf-7550af64d3f5.png" alt="memory-game"/></div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/137556104-b3db7aaa-ad41-45f9-a606-9d36e55aacad.png" alt="google-homepage"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
 <p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
 
@@ -21,4 +21,3 @@ Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le
 <p align=center>Voici un lien pour tester le jeu:
 
   <a title="https://aghoudi.github.io/google-homepage/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://aghoudi.github.io/google-homepage/">https://aghoudi.github.io/google-homepage/</a></p>
-![google](https://user-images.githubusercontent.com/27373255/137556104-b3db7aaa-ad41-45f9-a606-9d36e55aacad.png)
