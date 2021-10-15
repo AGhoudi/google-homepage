@@ -17,6 +17,6 @@ J'ai recrée la page google en HTML, CSS.</br>
 
 <h2 align=center>🌐 Lien web du projet :</h2>
 
-<p align=center>Voici un lien pour tester le jeu:
+<p align=center>Voici un lien pour tester la page:
 
   <a title="https://aghoudi.github.io/google-homepage/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://aghoudi.github.io/google-homepage/">https://aghoudi.github.io/google-homepage/</a></p>
