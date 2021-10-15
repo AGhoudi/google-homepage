@@ -5,7 +5,7 @@
 <h2 align=center>📝 Description :</h2>
 
 <p align=center>Dans le cadre de ma recherche d'approfondissement, de mes connaissances en intégration:</br>
-J'ai recrée la page google en HTML, CSS.</br>
+J'ai recréé la page google en HTML, CSS.</br>
 </p>
 
 <h2 align=center>👁️ Visuel :</h2>
@@ -13,7 +13,7 @@ J'ai recrée la page google en HTML, CSS.</br>
 
 <h2 align=center>💻 Stack utilisé :</h2>
 
-<p align=center>HTML - CSS - Javascript</p>
+<p align=center>HTML - CSS</p>
 
 <h2 align=center>🌐 Lien web du projet :</h2>
 
