@@ -1,6 +1,6 @@
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/137556104-b3db7aaa-ad41-45f9-a606-9d36e55aacad.png" alt="google-homepage"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
-<p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
+<p align=center>Il s'agissait de recréer la page google.</p>
 
 <h2 align=center>📝 Description :</h2>
 
