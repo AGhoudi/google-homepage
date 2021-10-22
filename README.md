@@ -9,7 +9,7 @@ J'ai recréé la page google en HTML, CSS.</br>
 </p>
 
 <h2 align=center>👁️ Visuel :</h2>
-<div align=center><img src="https://i.postimg.cc/XvK18NBm/memory.jpg" alt="visuel du jeu"</div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/138426817-aec1ccd7-dda3-4097-8be5-74cbcbe38e27.png" alt="google homepage"</div>
 
 <h2 align=center>💻 Stack utilisé :</h2>
 
